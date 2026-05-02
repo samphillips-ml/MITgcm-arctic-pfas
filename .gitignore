@@ -1,0 +1,13 @@
+experiment/input/*.bin
+
+experiment/code/*.o
+experiment/code/*.f90
+experiment/code/mitgcmuv
+
+data/*.nc
+data/*.bin
+data/*.csv
+
+__pycache__/
+*.pyc
+.env
